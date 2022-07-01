@@ -8,11 +8,11 @@
         <version>2.6.7</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.fit</groupId>
-    <artifactId>fitgroup</artifactId>
+    <groupId>com.rest</groupId>
+    <artifactId>resthouse</artifactId>
     <version>1.0</version>
-    <name>fitgroup</name>
-    <description>Fitgroup application open source</description>
+    <name>resthouse</name>
+    <description>Resthouse application design</description>
     <properties>
         <java.version>18</java.version>
     </properties>
